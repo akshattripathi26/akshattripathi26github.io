@@ -1,0 +1,95 @@
+# data/portfolio.yml
+personal:
+  name: "Akshat Tripathi"
+  title: "Engineering Management Graduate Student"
+  location: "Houston, TX"
+  email: "akshat.tripathi26@gmail.com"
+  linkedin: "https://linkedin.com/in/akshat-tripathi-"
+  bio: "Engineering Management graduate student at Rice University operating at the intersection of Data Science, AI Product Management, and Business Strategy. Proven track record in management consulting at KPMG, enterprise GTM, and AI platform delivery."
+
+education:
+  - degree: "Master of Science in Engineering Management and Leadership"
+    institution: "Rice University"
+    location: "Houston, TX"
+    gpa: "3.87 / 4.0"
+    dates: "Aug 2025 - Dec 2026"
+    coursework:
+      - "Data Science for Engineering Leaders"
+      - "Project & Product Management"
+      - "Data Visualization"
+      - "Lean Six Sigma"
+  - degree: "Bachelor of Technology in Electronics and Communication"
+    institution: "SRM Institute of Science and Technology"
+    location: "India"
+    dates: "May 2018 - May 2022"
+
+skills:
+  programming:
+    - "Python"
+    - "C++"
+    - "C"
+  data_and_ai:
+    - "Logistic Regression"
+    - "Predictive Modeling"
+    - "Classification & Risk Scoring"
+    - "Target Encoding & Pipelines"
+  tools_and_platforms:
+    - "Jira"
+    - "Asana"
+    - "Miro"
+    - "HubSpot CRM"
+    - "Salesforce"
+    - "GitHub"
+
+certifications:
+  - "IBM Applied AI Certificate"
+  - "Lean Green Belt"
+  - "Six Sigma Green Belt"
+  - "KPMG Rising Star Award"
+  - "Rice Merit Scholarship ($20,000)"
+
+projects:
+  - title: "McDonald's Egypt Last-Mile Delivery Optimization & Risk Scoring"
+    tags: ["Python", "Scikit-Learn", "Logistic Regression", "Logistics Operations"]
+    description: "Built a binary classification pipeline predicting order delivery promise breaches at dispatch time using LogiNext dataset. Solved data imbalance using class-weighted modeling, achieving ROC-AUC of ~0.86 while catching 70% of high-risk deliveries."
+    links:
+      notebook: "RCEL506_Logistic_Regression_Auto_Allocation.ipynb"
+      deck: "Presentation Auto Allocation.pptx"
+
+  - title: "ScholarIE Engen (AI Coaching Platform)"
+    tags: ["Product Management", "AI Architecture", "Sprint Planning"]
+    description: "Led end-to-end delivery of an AI-powered application coaching platform. Collaborated on system architecture to build an AI agent replicating counselor interactions at scale."
+
+  - title: "Racquet Buddy (Industry 4.0 Smart Performance Tech)"
+    tags: ["IoT", "Industry 4.0", "Data Analytics"]
+    description: "Developed a connected technology solution applying Industry 4.0 concepts to track and enhance athlete performance."
+
+experience:
+  - role: "Teaching Assistant - Data Science for Engineering Leaders"
+    organization: "Rice University"
+    location: "Houston, TX"
+    dates: "Aug 2026 - Dec 2026"
+    bullets:
+      - "Delivering lectures on classification and logistic regression modeling for engineering managers."
+      - "Auditing GitHub course datasets and leading data science workshops to build computational fluency."
+
+  - role: "Project Lead & Data Engineer Intern"
+    organization: "System Innovations"
+    dates: "May 2026 - Aug 2026"
+    bullets:
+      - "Directed cross-functional team of 3 engineers and consultant delivering ScholarIE Engen AI platform."
+      - "Partnered with AI engineers on data management strategy, feasibility assessments, and system architecture."
+
+  - role: "Senior Analyst - Advisory Department"
+    organization: "KPMG"
+    dates: "Jan 2024 - Nov 2024"
+    bullets:
+      - "Analyzed finance, logistics, and operational workflows for Fortune 500 clients to drive digital transformation."
+      - "Executed root-cause analysis and remediation planning, receiving Employee of the Quarter recognition."
+
+  - role: "Marketing Associate"
+    organization: "LogiNext"
+    dates: "Aug 2022 - Oct 2023"
+    bullets:
+      - "Ran customer discovery across North and South America, converting a strategic account into $100K ARR."
+      - "Gathered voice-of-customer signals at NRF Retail and Parcel Forum to refine messaging and GTM alignment."
