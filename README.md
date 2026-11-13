@@ -9,7 +9,7 @@ Engineering Management Graduate Student at **Rice University** operating at the 
 * 🎓 **Education:** Pursuing M.S. in Engineering Management and Leadership at **Rice University** (GPA: 3.87/4)[cite: 1]
 * 🛠️ **Current Role:** Teaching Assistant for *RCEL 506: Data Science for Engineering Leaders* at Rice University & Project Lead / Data Engineer Intern at System Innovations[cite: 1]
 * 📊 **Core Focus:** AI Systems Architecture, Predictive Modeling, GTM Strategy, and Process Optimization (Lean Six Sigma)[cite: 1]
-* 🏆 **Recognitions:** IBM Applied AI Certified, Lean & Six Sigma Green Belt, KPMG Rising Star, Rice Merit Scholar ($20,000)[cite: 1]
+* 🏆 **Recognitions:** IBM Applied AI Certified, Lean & Six Sigma Green Belt, KPMG hfhh Rising Star, Rice Merit Scholar ($20,000)[cite: 1]
 
 ---
 
